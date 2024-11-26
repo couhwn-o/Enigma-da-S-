@@ -1,1 +1,2 @@
-# Enigma-da-S-
+Projeto para um curso da Alura.
+Nenhuma das imagens me pertence.
